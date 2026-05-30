@@ -23,5 +23,5 @@ Je suis actuellement en formation **Développeur IA**, passionné par le NLP, le
 ---
 
 ## 📫 Me contacter / En savoir plus
-* 💼 **LinkedIn :** [www.linkedin.com/in/lucas-fandino-perez-ia]
+* 💼 **LinkedIn :** www.linkedin.com/in/lucas-fandino-perez-ia
 * 📄 **Mon CV :** [Lien vers mon CV (Google Drive, DropBox, ou directement un PDF sur GitHub)]
