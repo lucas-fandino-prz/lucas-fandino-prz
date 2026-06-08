@@ -18,7 +18,7 @@ Je suis actuellement en formation **Développeur IA**, passionné par le NLP, le
 
 ## 📌 Mes Projets Phares
 *(Retrouve mes meilleurs projets épinglés juste en dessous !)*
-* 💡 **[Chatbot ERP (RAG & Agents)](https://github.com/lucas-fandino-prz/rag-agent-demo.git)](https://github.com/lucas-fandino-prz/rag-agent-demo.git)** : L'architecture complète du chatbot intelligent développé durant mon stage (anonymisé).
+* 💡 **[Chatbot ERP (RAG & Agents)](https://github.com/lucas-fandino-prz/rag-agent-demo)** : L'architecture complète du chatbot intelligent développé durant mon stage (anonymisé).
 
 ---
 
